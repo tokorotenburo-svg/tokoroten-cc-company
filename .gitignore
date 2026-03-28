@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 一時ファイル
+*.zip
+notion_export/
+*.png
+*.jpg
+*.jpeg
+
+# Claude内部ファイル（メモリはGitHub管理不要）
+.claude/
+
+# 財務情報（プライベート）
+.secretary/finances/
+
+# クライアント情報（プライベート）
+.secretary/clients/
